@@ -65,26 +65,6 @@ def loginFb(self, url, config):
 		else:
 			print('\n\033[0;91mWrong cookies, please try Again.\n\033[0m')
 
-Skip to content
-HudaJr
-/
-gg
-Code
-Issues
-1
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-gg/comment_me.py
- @HudaJr
-HudaJr Add files via upload
- 1 contributor
-54 lines (50 sloc)  1.81 KB
   
 #!usr/bin/python2.7
 # coding=utf-8
