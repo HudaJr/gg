@@ -637,8 +637,7 @@ class Brute(object):
     print(self.config.banner())
     html = parser(response, 'html.parser')
     print('_________________________________________________________')
-    print('\n(\033[0;96 it•\033[0m) ACTIVE USER : '.decode('utf-8')+html.title.text.upper()) of #!/usr/local/bin/python
-import os, sys
+    #!/usr/local/bin/python import os, sys
     print('_________________________________________________________')
     print(self.menu)
     try:
